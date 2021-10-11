@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ramiz
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python
